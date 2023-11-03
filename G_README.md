@@ -9,19 +9,29 @@ A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 ### In Google Sheets/Groups
 
 > site:docs.google.com/spreadsheets "company name"
+
 > site:groups.google.com "company name"
+
 > site:docs.google.com inurl:"/d/" "example.com"
 
 ### Leaked Credentials On Google
 
 > site:onedrive.live.com "example.com"
+
 > site:dropbox.com/s "example.com"
+
 > site:box.com/s "example.com"
+
 > site:dev.azure.com "example.com"
+
 > site:sharepoint.com "example.com"
+
 > site:digitaloceanspaces.com "example.com"
+
 > site:firebaseio.com "example"
+
 > site:jfrog.io "example"
+
 > site:aws.amazon.com/s3/ "example.com"
 
 ### Broad domain search w/ negative search

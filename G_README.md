@@ -5,13 +5,14 @@ A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 ---
 ### Search For PLI (Personal Identifiable Information) On Google
 
-### Leaked Credentials On Google
 
 ### In Google Sheets/Groups
 
 > site:docs.google.com/spreadsheets "company name"
 > site:groups.google.com "company name"
 > site:docs.google.com inurl:"/d/" "example.com"
+
+### Leaked Credentials On Google
 
 > site:onedrive.live.com "example.com"
 > site:dropbox.com/s "example.com"

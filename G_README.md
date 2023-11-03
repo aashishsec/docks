@@ -2,10 +2,26 @@
 
 A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Dheerajmadhukar.svg?style=social&label=Follow%20%40Dheerajmadhukar)](https://twitter.com/Dheerajmadhukar)
-</p>
-
 ---
+### Search For PLI (Personal Identifiable Information) On Google
+
+### Leaked Credentials On Google
+
+### In Google Sheets/Groups
+
+> site:docs.google.com/spreadsheets "company name"
+> site:groups.google.com "company name"
+> site:docs.google.com inurl:"/d/" "example.com"
+
+> site:onedrive.live.com "example.com"
+> site:dropbox.com/s "example.com"
+> site:box.com/s "example.com"
+> site:dev.azure.com "example.com"
+> site:sharepoint.com "example.com"
+> site:digitaloceanspaces.com "example.com"
+> site:firebaseio.com "example"
+> site:jfrog.io "example"
+> site:aws.amazon.com/s3/ "example.com"
 
 ### Broad domain search w/ negative search
 

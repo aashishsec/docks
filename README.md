@@ -1,2 +1,1 @@
-# MyDocks
-My Docks for bug bounty
+# oh-my-dorks

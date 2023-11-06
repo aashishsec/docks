@@ -5,6 +5,10 @@ A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 ---
 ### Search For PLI (Personal Identifiable Information) On Google
 
+> site:"example.com" ext:pdf “confidential”
+
+> example.com: ext:pdf “confidential”
+
 
 ### In Google Sheets/Groups
 

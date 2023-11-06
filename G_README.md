@@ -7,7 +7,7 @@ A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 
 > site:"example.com" ext:pdf “confidential”
 
-> example.com: ext:pdf “confidential”
+> "example.com": ext:pdf “confidential”
 
 
 ### In Google Sheets/Groups

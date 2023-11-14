@@ -12,9 +12,9 @@ A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 
 ### In Google Sheets/Groups
 
-> site:docs.google.com/spreadsheets "company name"
+> site:docs.google.com/spreadsheets "example.com"
 
-> site:groups.google.com "company name"
+> site:groups.google.com "example.com"
 
 > site:docs.google.com inurl:"/d/" "example.com"
 

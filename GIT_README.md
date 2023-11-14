@@ -6,139 +6,139 @@ A list of GitHub Dorks for Bug Bounty, Web Application Security, and Pentesting.
 
 ### GitHub Dorks for Finding Files
 
-> filename:manifest.xml  "company name"
+> filename:manifest.xml "example.com"
 
-> filename:travis.yml "company name"
+> filename:travis.yml  "example.com"
 
-> filename:vim_settings.xml "company name"
+> filename:vim_settings.xml "example.com"
 
-> filename:database "company name"
+> filename:database "example.com"
 
-> filename:prod.exs NOT prod.secret.exs "company name"
+> filename:prod.exs NOT prod.secret.exs "example.com"
 
-> filename:prod.secret.exs "company name"
+> filename:prod.secret.exs "example.com"
 
-> filename:.npmrc _auth "company name"
+> filename:.npmrc _auth "example.com"
 
-> filename:.dockercfg auth "company name"
+> filename:.dockercfg auth "example.com"
 
-> filename:WebServers.xml "company name"
+> filename:WebServers.xml "example.com"
 
-> filename:.bash_history  "company name"
+> filename:.bash_history  "example.com"
 
-> filename:sftp-config.json "company name"
+> filename:sftp-config.json "example.com"
 
-> filename:sftp.json path:.vscode  "company name"
+> filename:sftp.json path:.vscode  "example.com"
 
-> filename:secrets.yml password  "company name"
+> filename:secrets.yml password  "example.com"
 
-> filename:.esmtprc password  "company name"
+> filename:.esmtprc password  "example.com"
 
-> filename:passwd path:etc "company name"
+> filename:passwd path:etc "example.com"
 
-> filename:dbeaver-data-sources.xml  "company name"
+> filename:dbeaver-data-sources.xml  "example.com"
 
-> path:sites databases password  "company name"
+> path:sites databases password  "example.com"
 
-> filename:config.php dbpasswd  "company name"
+> filename:config.php dbpasswd  "example.com"
 
-> filename:prod.secret.exs  "company name"
+> filename:prod.secret.exs  "example.com"
 
-> filename:configuration.php JConfig password "company name"
+> filename:configuration.php JConfig password "example.com"
 
-> filename:.sh_history  "company name"
+> filename:.sh_history  "example.com"
 
-> shodan_api_key language:python "company name"
+> shodan_api_key language:python "example.com"
 
-> filename:shadow path:etc "company name"
+> filename:shadow path:etc "example.com"
 
-> JEKYLL_GITHUB_TOKEN "company name"
+> JEKYLL_GITHUB_TOKEN "example.com"
 
-> filename:proftpdpasswd "company name"
+> filename:proftpdpasswd "example.com"
 
-> filename:.pgpass "company name"
+> filename:.pgpass "example.com"
 
-> filename:idea14.key "company name"
+> filename:idea14.key "example.com"
 
-> filename:hub oauth_token "company name"
+> filename:hub oauth_token "example.com"
 
-> HEROKU_API_KEY language:json "company name"
+> HEROKU_API_KEY language:json "example.com"
 
-> HEROKU_API_KEY language:shell "company name"
+> HEROKU_API_KEY language:shell "example.com"
 
-> SF_USERNAME salesforce "company name"
+> SF_USERNAME salesforce "example.com"
 
-> filename:.bash_profile aws "company name"
+> filename:.bash_profile aws "example.com"
 
-> extension:json api.forecast.io "company name"
+> extension:json api.forecast.io "example.com"
 
-> filename:.env MAIL_HOST=smtp.gmail.com "company name"
+> filename:.env MAIL_HOST=smtp.gmail.com "example.com"
 
-> filename:wp-config.php "company name"
+> filename:wp-config.php "example.com"
 
-> extension:sql mysql dump "company name"
+> extension:sql mysql dump "example.com"
 
-> filename:credentials aws_access_key_id "company name"
+> filename:credentials aws_access_key_id "example.com"
 
-> filename:id_rsa or filename:id_dsa "company name"
+> filename:id_rsa or filename:id_dsa "example.com"
 
 ### GitHub Dorks for Finding Languages
 
-> language:python username  "company name"
+> language:python username  "example.com"
 
-> language:php username  "company name"
+> language:php username  "example.com"
 
-> language:sql username "company name"
+> language:sql username "example.com"
 
-> language:html password "company name"
+> language:html password "example.com"
 
-> language:perl password "company name"
+> language:perl password "example.com"
 
-> language:shell username "company name"
+> language:shell username "example.com"
 
-> language:java api "company name"
+> language:java api "example.com"
 
-> HOMEBREW_GITHUB_API_TOKEN language:shell "company name"
+> HOMEBREW_GITHUB_API_TOKEN language:shell "example.com"
 
 ### GiHub Dorks for Finding API Keys, Tokens and Passwords
 
-> api_key  "company name"
+> api_key  "example.com"
 
-> “api keys” "company name"
+> “api keys” "example.com"
 
-> authorization_bearer: "company name"
+> authorization_bearer: "example.com"
 
-> oauth "company name"
+> oauth "example.com"
 
-> auth "company name"
+> auth "example.com"
 
-> authentication "company name"
+> authentication "example.com"
 
-> client_secret "company name"
+> client_secret "example.com"
 
-> api_token: "company name"
+> api_token: "example.com"
 
-> “api token” "company name"
+> “api token” "example.com"
 
-> client_id "company name"
+> client_id "example.com"
 
-> password "company name"
+> password "example.com"
 
-> user_password "company name"
+> user_password "example.com"
 
-> user_pass "company name"
+> user_pass "example.com"
 
-> passcode "company name"
+> passcode "example.com"
 
-> client_secret "company name"
+> client_secret "example.com"
 
-> secret "company name"
+> secret "example.com"
 
-> password hash "company name"
+> password hash "example.com"
 
-> OTP "company name"
+> OTP "example.com"
 
-> user auth "company name"
+> user auth "example.com"
 
 ### GitHub Dorks for Finding Usernames
 
@@ -157,33 +157,33 @@ A list of GitHub Dorks for Bug Bounty, Web Application Security, and Pentesting.
 
 ### GitHub Dorks for Finding Information using Dates
 
-> created:<2012–04–05 "company name"
+> created:<2012–04–05 "example.com"
 
-> created:>=2011–06–12 "company name"
+> created:>=2011–06–12 "example.com"
 
-> created:2016–02–07 location:iceland  "company name"
+> created:2016–02–07 location:iceland  "example.com"
 
-> created:2011–04–06..2013–01–14 <user> in:username "company name"
+> created:2011–04–06..2013–01–14 <user> in:username "example.com"
 
 ### GitHub Dorks for Finding Information using Extension
 
 
-> extension:pem private "company name"
+> extension:pem private "example.com"
 
-> extension:ppk private "company name"
+> extension:ppk private "example.com"
 
-> extension:sql mysql dump "company name"
+> extension:sql mysql dump "example.com"
 
-> extension:sql mysql dump password "company name"
+> extension:sql mysql dump password "example.com"
 
-> extension:json api.forecast.io "company name"
+> extension:json api.forecast.io "example.com"
 
-> extension:json mongolab.com "company name"
+> extension:json mongolab.com "example.com"
 
-> extension:yaml mongolab.com "company name"
+> extension:yaml mongolab.com "example.com"
 
-> [WFClient] Password= extension:ica "company name"
+> [WFClient] Password= extension:ica "example.com"
 
-> extension:avastlic “support.avast.com” "company name"
+> extension:avastlic “support.avast.com” "example.com"
 
-> extension:json googleusercontent client_secret "company name"
+> extension:json googleusercontent client_secret "example.com"

@@ -6,144 +6,144 @@ A list of GitHub Dorks for Bug Bounty, Web Application Security, and Pentesting.
 
 ### GitHub Dorks for Finding Files
 
-> filename:manifest.xml
+> filename:manifest.xml  "company name"
 
-> filename:travis.yml
+> filename:travis.yml "company name"
 
-> filename:vim_settings.xml
+> filename:vim_settings.xml "company name"
 
-> filename:database
+> filename:database "company name"
 
-> filename:prod.exs NOT prod.secret.exs
+> filename:prod.exs NOT prod.secret.exs "company name"
 
-> filename:prod.secret.exs
+> filename:prod.secret.exs "company name"
 
-> filename:.npmrc _auth
+> filename:.npmrc _auth "company name"
 
-> filename:.dockercfg auth
+> filename:.dockercfg auth "company name"
 
-> filename:WebServers.xml
+> filename:WebServers.xml "company name"
 
-> filename:.bash_history <Domain name>
+> filename:.bash_history  "company name"
 
-> filename:sftp-config.json
+> filename:sftp-config.json "company name"
 
-> filename:sftp.json path:.vscode
+> filename:sftp.json path:.vscode  "company name"
 
-> filename:secrets.yml password
+> filename:secrets.yml password  "company name"
 
-> filename:.esmtprc password
+> filename:.esmtprc password  "company name"
 
-> filename:passwd path:etc
+> filename:passwd path:etc "company name"
 
-> filename:dbeaver-data-sources.xml
+> filename:dbeaver-data-sources.xml  "company name"
 
-> path:sites databases password
+> path:sites databases password  "company name"
 
-> filename:config.php dbpasswd
+> filename:config.php dbpasswd  "company name"
 
-> filename:prod.secret.exs
+> filename:prod.secret.exs  "company name"
 
-> filename:configuration.php JConfig password
+> filename:configuration.php JConfig password "company name"
 
-> filename:.sh_history
+> filename:.sh_history  "company name"
 
-> shodan_api_key language:python
+> shodan_api_key language:python "company name"
 
-> filename:shadow path:etc
+> filename:shadow path:etc "company name"
 
-> JEKYLL_GITHUB_TOKEN
+> JEKYLL_GITHUB_TOKEN "company name"
 
-> filename:proftpdpasswd
+> filename:proftpdpasswd "company name"
 
-> filename:.pgpass
+> filename:.pgpass "company name"
 
-> filename:idea14.key
+> filename:idea14.key "company name"
 
-> filename:hub oauth_token
+> filename:hub oauth_token "company name"
 
-> HEROKU_API_KEY language:json
+> HEROKU_API_KEY language:json "company name"
 
-> HEROKU_API_KEY language:shell
+> HEROKU_API_KEY language:shell "company name"
 
-> SF_USERNAME salesforce
+> SF_USERNAME salesforce "company name"
 
-> filename:.bash_profile aws
+> filename:.bash_profile aws "company name"
 
-> extension:json api.forecast.io
+> extension:json api.forecast.io "company name"
 
-> filename:.env MAIL_HOST=smtp.gmail.com
+> filename:.env MAIL_HOST=smtp.gmail.com "company name"
 
-> filename:wp-config.php
+> filename:wp-config.php "company name"
 
-> extension:sql mysql dump
+> extension:sql mysql dump "company name"
 
-> filename:credentials aws_access_key_id
+> filename:credentials aws_access_key_id "company name"
 
-> filename:id_rsa or filename:id_dsa
+> filename:id_rsa or filename:id_dsa "company name"
 
 ### GitHub Dorks for Finding Languages
 
-> language:python username
+> language:python username  "company name"
 
-> language:php username
+> language:php username  "company name"
 
-> language:sql username
+> language:sql username "company name"
 
-> language:html password
+> language:html password "company name"
 
-> language:perl password
+> language:perl password "company name"
 
-> language:shell username
+> language:shell username "company name"
 
-> language:java api
+> language:java api "company name"
 
-> HOMEBREW_GITHUB_API_TOKEN language:shell
+> HOMEBREW_GITHUB_API_TOKEN language:shell "company name"
 
 ### GiHub Dorks for Finding API Keys, Tokens and Passwords
 
-> api_key
+> api_key  "company name"
 
-> “api keys”
+> “api keys” "company name"
 
-> authorization_bearer:
+> authorization_bearer: "company name"
 
-> oauth
+> oauth "company name"
 
-> auth
+> auth "company name"
 
-> authentication
+> authentication "company name"
 
-> client_secret
+> client_secret "company name"
 
-> api_token:
+> api_token: "company name"
 
-> “api token”
+> “api token” "company name"
 
-> client_id
+> client_id "company name"
 
-> password
+> password "company name"
 
-> user_password
+> user_password "company name"
 
-> user_pass
+> user_pass "company name"
 
-> passcode
+> passcode "company name"
 
-> client_secret
+> client_secret "company name"
 
-> secret
+> secret "company name"
 
-> password hash
+> password hash "company name"
 
-> OTP
+> OTP "company name"
 
-> user auth
+> user auth "company name"
 
 ### GitHub Dorks for Finding Usernames
 
 
-> user:name (user:admin)
+> user:name (user:admin) 
 
 > org:name (org:google type:users)
 
@@ -157,33 +157,33 @@ A list of GitHub Dorks for Bug Bounty, Web Application Security, and Pentesting.
 
 ### GitHub Dorks for Finding Information using Dates
 
-> created:<2012–04–05
+> created:<2012–04–05 "company name"
 
-> created:>=2011–06–12
+> created:>=2011–06–12 "company name"
 
-> created:2016–02–07 location:iceland
+> created:2016–02–07 location:iceland  "company name"
 
-> created:2011–04–06..2013–01–14 <user> in:username
+> created:2011–04–06..2013–01–14 <user> in:username "company name"
 
 ### GitHub Dorks for Finding Information using Extension
 
 
-> extension:pem private
+> extension:pem private "company name"
 
-> extension:ppk private
+> extension:ppk private "company name"
 
-> extension:sql mysql dump
+> extension:sql mysql dump "company name"
 
-> extension:sql mysql dump password
+> extension:sql mysql dump password "company name"
 
-> extension:json api.forecast.io
+> extension:json api.forecast.io "company name"
 
-> extension:json mongolab.com
+> extension:json mongolab.com "company name"
 
-> extension:yaml mongolab.com
+> extension:yaml mongolab.com "company name"
 
-> [WFClient] Password= extension:ica
+> [WFClient] Password= extension:ica "company name"
 
-> extension:avastlic “support.avast.com”
+> extension:avastlic “support.avast.com” "company name"
 
-> extension:json googleusercontent client_secret
+> extension:json googleusercontent client_secret "company name"
